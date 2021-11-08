@@ -1,0 +1,10 @@
+topics:
+  test-topic:
+    partitions: 3
+    replication: 3
+  test-topic2:
+    partitions: 3
+    replication: 3
+  test-topic3:
+    partitions: 3
+    replication: 3
